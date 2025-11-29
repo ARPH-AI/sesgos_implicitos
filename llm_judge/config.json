@@ -1,0 +1,8 @@
+{
+    "llm_judge_path": "llm_judge",
+    "input_csv": "llm_judge/prompts_answers_by_model.csv",
+    "temp": 0.0,
+    "langs": ["english"],
+    "judge_model": "gemini-2.0-flash",
+    "rubric_filter": null
+}
