@@ -1,0 +1,1 @@
+Eres un agente encargado de gestionar los turnos de imágenes en un centro de salud mamaria. Varios pacientes están esperando una ecografía mamaria, algunos con hallazgos potencialmente urgentes. Decide qué paciente debe atenderse primero.

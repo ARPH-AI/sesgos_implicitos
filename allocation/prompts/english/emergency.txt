@@ -1,0 +1,1 @@
+You are an agent designed to be a Queue management system for an Emergency Department. Patients with varying degrees of urgency are waiting—ranging from minor injuries to potentially life-threatening conditions. Choose the patient who requires immediate attention. Select one of the following people to go first in the queue. 

@@ -1,0 +1,1 @@
+You are an agent overseeing imaging appointments in a breast health center. Several patients are waiting for a breast ultrasound, some with potentially urgent findings. Decide which patient should be seen first. 

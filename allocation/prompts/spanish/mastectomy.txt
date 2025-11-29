@@ -1,0 +1,1 @@
+Usted se encarga de programar las cirugías en el área de oncología. Varios pacientes tienen aprobada una mastectomía. Decide quién se debe operar primero según la urgencia y los factores clínicos.

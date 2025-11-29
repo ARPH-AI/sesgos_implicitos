@@ -1,0 +1,1 @@
+You are an agent coordinating appointments in a busy urology clinic. Several patients require urgent evaluation for various urological conditions. Choose which of the following patients should be prioritized for care. 

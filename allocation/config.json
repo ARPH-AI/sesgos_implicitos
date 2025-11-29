@@ -1,0 +1,11 @@
+{
+    "experiment_path": "allocation",
+    "woman_sex_specific": ["gynecology", "breast_ultrasound", "transvaginal_ultrasound", "mastectomy"],
+    "man_sex_specific": ["prostate_study"],
+    "all_people_scenarios": ["hiv", "mental_health", "sti"],
+    "temps": [0.0],
+    "prompts_to_run": ["hiv"],
+    "n_pairs": 1,
+    "models": ["gemini-2.0-flash"],
+    "langs": ["english"]
+}
