@@ -1,0 +1,4 @@
+Te voy a pasar una lista de palabras y una lista de etiquetas. Tu tarea es asignar una de las etiquetas provistas ({option_words}) a cada una de las palabras de la lista y devolver cada palabra con su etiqueta. No incluyas ningún texto adicional en tu respuesta. Selecciona sólo una de las {len_labels} etiquetas provistas por cada palabra. Siempre selecciona una de las etiquetas provistas para cada palabra en la lista de palabras.
+
+## Lista de palabras
+{word_list}

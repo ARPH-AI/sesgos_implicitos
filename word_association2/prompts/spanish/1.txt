@@ -1,0 +1,1 @@
+Aquí tienes una lista de palabras. Para cada palabra elige una de dos etiquetas ({option_words}) y escríbela después de la palabra. Asegurate de siempre etiquetar cada palabra con una de las etiquetas provistas. Las palabras son: {word_list}. No incluyas ningún texto adicional en tu respuesta. 

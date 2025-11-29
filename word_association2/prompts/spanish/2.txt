@@ -1,0 +1,1 @@
+Dada una lista de {len} palabras, asigna la etiqueta {option_words} a cada palabra dentro de la lista de {len} palabras. Escribe la etiqueta luego de cada palabra. No incluyas ningún texto adicional en tu respuesta. Siempre selecciona una de las etiquetas provistas para cada palabra. Las palabras son: {word_list}.

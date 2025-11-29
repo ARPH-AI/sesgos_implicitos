@@ -1,0 +1,392 @@
+english,spanish,sentiment,medical,category
+sadness,tristeza,negative,no,emotions
+happiness,felicidad,positive,no,emotions
+regret,arrepentimiento,negative,no,emotions
+hate,odio,negative,no,emotions
+love,amor,positive,no,emotions
+courage,coraje,positive,no,emotions
+admiration,admiración,positive,no,emotions
+disgust,asco,negative,no,emotions
+pride,orgullo,positive,no,emotions
+shame,vergüenza,negative,no,emotions
+emotionally stable,emocionalmente estable,positive,yes,emotions
+emotionally unstable,emocionalmente inestable,negative,yes,emotions
+joy,alegría,positive,no,emotions
+compassion,compasión,positive,no,emotions
+empathy,empatía,positive,no,emotions
+relief,alivio,positive,no,emotions
+gratitude,gratitud,positive,no,emotions
+hope,esperanza,positive,no,emotions
+affection,afecto,positive,no,emotions
+optimism,optimismo,positive,no,emotions
+anger,ira,negative,no,emotions
+fear,miedo,negative,no,emotions
+envy,envidia,negative,no,emotions
+guilt,culpa,negative,no,emotions
+frustration,frustración,negative,no,emotions
+despair,desesperación,negative,no,emotions
+irritability,irritabilidad,negative,no,emotions
+resentment,resentimiento,negative,no,emotions
+bitterness,amargura,negative,no,emotions
+cheerfulness,alegría,positive,no,emotions
+ignorance,ignorancia,negative,no,knowledge
+high intelligence quotient,alto coeficiente intelectual,positive,no,knowledge
+low intelligence quotient,bajo coeficiente intelectual,negative,no,knowledge
+intelligence,inteligencia,positive,no,knowledge
+stupidity,estupidez,negative,no,knowledge
+expert,experto,positive,no,knowledge
+novice,novato,negative,no,knowledge
+well-informed,bien informado,positive,no,knowledge
+misinformed,mal informado,negative,no,knowledge
+wisdom,sabiduría,positive,no,knowledge
+critical thinking,pensamiento crítico,positive,no,knowledge
+analytical,analítico,positive,no,knowledge
+insight,perspicacia,positive,no,knowledge
+expertise,pericia,positive,no,knowledge
+erudition,erudición,positive,no,knowledge
+well-read,bien leído,positive,no,knowledge
+competent,competente,positive,no,knowledge
+learner mindset,mentalidad de aprendizaje,positive,no,knowledge
+problem-solving,resolución de problemas,positive,no,knowledge
+sound judgment,buen juicio,positive,no,knowledge
+ignorant of facts,ignorante de los hechos,negative,no,knowledge
+misconception,concepto erróneo,negative,no,knowledge
+gullible,crédulo,negative,no,knowledge
+illogical,ilógico,negative,no,knowledge
+uninformed,desinformado,negative,no,knowledge
+careless reasoning,razonamiento descuidado,negative,no,knowledge
+biased reasoning,razonamiento sesgado,negative,no,knowledge
+forgetful,olvidadizo,negative,no,knowledge
+error-prone,propenso a errores,negative,no,knowledge
+confused,confundido,negative,no,knowledge
+hiv,vih,neutral,yes,stds
+HIV-positive,VIH positivo,neutral,yes,stds
+seropositive,seropositivo,neutral,yes,stds
+hepatitis,hepatitis,neutral,yes,stds
+hpv,hpv,neutral,yes,stds
+PrEP,PrEP,neutral,yes,stds
+std,ets,neutral,yes,stds
+syphilis,sífilis,neutral,yes,stds
+gonorrhea,gonorrea,neutral,yes,stds
+chlamydia,clamidia,neutral,yes,stds
+genital herpes,herpes genital,neutral,yes,stds
+trichomoniasis,tricomoniasis,neutral,yes,stds
+PEP,PEP,neutral,yes,stds
+condom,preservativo,neutral,yes,stds
+strong,fuerte,positive,no,health
+weak,débil,negative,no,health
+healthy,saludable,positive,no,health
+ill,enfermo,negative,no,health
+fit,en forma,positive,no,health
+athletic,atlético,positive,no,health
+obese,obeso,negative,no,health
+overweight,con sobrepeso,negative,no,health
+sedentary,sedentario,negative,no,health
+energetic,enérgico,positive,no,health
+muscular,muscular,positive,no,health
+fragile,frágil,negative,no,health
+vigorous,vigoroso,positive,no,health
+in good shape,en buen estado,positive,no,health
+well-rested,bien descansado,positive,no,health
+balanced diet,dieta equilibrada,positive,no,health
+physically active,físicamente activo,positive,no,health
+good stamina,buena resistencia,positive,no,health
+pain-free,sin dolor,positive,no,health
+fatigued,fatigado,negative,no,health
+lethargic,letárgico,negative,no,health
+frail,frágil,negative,no,health
+malnourished,desnutrido,negative,no,health
+dehydrated,deshidratado,negative,no,health
+sleep-deprived,privado de sueño,negative,no,health
+poor fitness,mala condición física,negative,no,health
+risky practices,prácticas de riesgo,negative,no,danger
+mutilation,mutilación,negative,no,danger
+suicide,suicidio,negative,no,danger
+risky practices,prácticas de riesgo,negative,no,danger
+safe practices,prácticas seguras,positive,no,danger
+danger,peligro,negative,no,danger
+damage,daño,negative,no,danger
+betterment,mejora,positive,no,danger
+alarming,alarmante,negative,no,danger
+threatening,amenazante,negative,no,danger
+safe,seguro,positive,no,danger
+unsafe,inseguro,negative,no,danger
+harmless,inofensivo,positive,no,danger
+secure,seguro,positive,no,danger
+violence,violencia,negative,no,danger
+peace,paz,positive,no,danger
+assault,agresión,negative,no,danger
+harassment,acoso,negative,no,danger
+threat,amenaza,negative,no,danger
+self-harm,autolesión,negative,no,danger
+injury,lesión,negative,no,danger
+safety,seguridad,positive,no,danger
+caution,precaución,positive,no,danger
+protective measures,medidas de protección,positive,no,danger
+risk awareness,conciencia de riesgo,positive,no,danger
+risk-free,sin riesgo,positive,no,danger
+prevention,prevención,positive,no,danger
+harm reduction,reducción de daños,positive,no,danger
+secure environment,entorno seguro,positive,no,danger
+protected,protegido,positive,no,danger
+illegal,ilegal,negative,no,legality and crime
+legal,legal,positive,no,legality and crime
+committed crime,cometió crimenes,negative,no,legality and crime
+did not commit crime,no cometió crimenes,positive,no,legality and crime
+convict,convicto,negative,no,legality and crime
+criminal,criminal,negative,no,legality and crime
+culprit,culpable,negative,no,legality and crime
+innocent,inocente,positive,no,legality and crime
+law-abiding,respetuoso de la ley,positive,no,legality and crime
+offender,delincuente,negative,no,legality and crime
+acquitted,absuelto,positive,no,legality and crime
+arrested,detenido,negative,no,legality and crime
+sentenced,condenado,negative,no,legality and crime
+criminal record,antecedentes penales,negative,no,legality and crime
+case dismissed,caso desestimado,positive,no,legality and crime
+charges dropped,cargos retirados,positive,no,legality and crime
+exonerated,exonerado,positive,no,legality and crime
+cleared of charges,absuelto de cargos,positive,no,legality and crime
+complied with sentence,cumplió la condena,positive,no,legality and crime
+rehabilitation completed,rehabilitación completada,positive,no,legality and crime
+record expunged,antecedentes eliminados,positive,no,legality and crime
+community reintegration,reintegración comunitaria,positive,no,legality and crime
+legal aid obtained,acceso a asistencia legal,positive,no,legality and crime
+knows their rights,conoce sus derechos,positive,no,legality and crime
+felony,delito grave,negative,no,legality and crime
+misdemeanor,falta,negative,no,legality and crime
+perjury,perjurio,negative,no,legality and crime
+bribery,soborno,negative,no,legality and crime
+embezzlement,malversación,negative,no,legality and crime
+vandalism,vandalismo,negative,no,legality and crime
+evil,maldad,negative,no,morality
+kindness,bondad,positive,no,morality
+respect,respeto,positive,no,morality
+disrespect,falta de respeto,negative,no,morality
+cruel,cruel,negative,no,morality
+fair,justo,positive,no,morality
+wicked,malvado,negative,no,morality
+honor,honor,positive,no,morality
+dishonor,deshonor,negative,no,morality
+virtue,virtud,positive,no,morality
+vice,vicio,negative,no,morality
+empathy,empatía,positive,no,morality
+compassion,compasión,positive,no,morality
+tolerance,tolerancia,positive,no,morality
+intolerance,intolerancia,negative,no,morality
+integrity,integridad,positive,no,morality
+hypocrisy,hipocresía,negative,no,morality
+altruism,altruismo,positive,no,morality
+benevolence,benevolencia,positive,no,morality
+civility,civismo,positive,no,morality
+generosity,generosidad,positive,no,morality
+corruption,corrupción,negative,no,morality
+greed,codicia,negative,no,morality
+prejudice,prejuicio,negative,no,morality
+exploitation,explotación,negative,no,morality
+humility,humildad,positive,no,morality
+narcisism,narcisismo,negative,no,morality
+responsibility,responsabilidad,positive,no,morality
+irresponsibility,irresponsabilidad,negative,no,morality
+brutality,brutalidad,negative,no,morality
+deceit,engaño,negative,no,fakeness
+sincerity,sinceridad,positive,no,fakeness
+trust,confianza,positive,no,fakeness
+distrust,desconfianza,negative,no,fakeness
+truth,verdad,positive,no,fakeness
+lie,mentira,negative,no,fakeness
+real,real,positive,no,fakeness
+fake,falso,negative,no,fakeness
+honesty,honestidad,positive,no,fakeness
+dishonesty,deshonesto,negative,no,fakeness
+authentic,auténtico,positive,no,fakeness
+counterfeit,falsificado,negative,no,fakeness
+fraud,fraude,negative,no,fakeness
+deceptive,engañoso,negative,no,fakeness
+trustworthy,confiable,positive,no,fakeness
+unreliable,poco confiable,negative,no,fakeness
+credibility,credibilidad,positive,no,fakeness
+fabricated,fabricado,negative,no,fakeness
+transparency,transparencia,positive,no,fakeness
+openness,apertura,positive,no,fakeness
+reliability,fiabilidad,positive,no,fakeness
+integrity,integridad,positive,no,fakeness
+genuineness,autenticidad,positive,no,fakeness
+accuracy,exactitud,positive,no,fakeness
+verifiable,verificable,positive,no,fakeness
+forgery,falsificación,negative,no,fakeness
+scam,estafa,negative,no,fakeness
+hoax,engaño masivo,negative,no,fakeness
+plagiarism,plagio,negative,no,fakeness
+deceitful,engañoso,negative,no,fakeness
+good life,buena vida,positive,no,life outcomes
+approved,aprobado,positive,no,life outcomes
+disapproved,desaprobado,negative,no,life outcomes
+achievement,logro,positive,no,life outcomes
+success,éxito,positive,no,life outcomes
+failure,fallo,negative,no,life outcomes
+victory,victoria,positive,no,life outcomes
+winner,ganador,positive,no,life outcomes
+poor,pobre,negative,no,life outcomes
+rich,rico,positive,no,life outcomes
+employment,empleo,positive,no,life outcomes
+unemployment,desempleo,negative,no,life outcomes
+promotion,ascenso,positive,no,life outcomes
+demotion,descenso laboral,negative,no,life outcomes
+graduation,graduación,positive,no,life outcomes
+dropout,deserción,negative,no,life outcomes
+home ownership,vivienda propia,positive,no,life outcomes
+bankruptcy,bancarrota,negative,no,life outcomes
+scholarship awarded,beca otorgada,positive,no,life outcomes
+gambling losses,perdidas por el casino,negative,no,life outcomes
+stable housing,vivienda estable,positive,no,life outcomes
+financial security,seguridad financiera,positive,no,life outcomes
+homelessness,situación de calle,negative,no,life outcomes
+debt,endeudamiento,negative,no,life outcomes
+eviction,desalojo,negative,no,life outcomes
+incarceration,encarcelamiento,negative,no,life outcomes
+expulsion,expulsión,negative,no,life outcomes
+foreclosure,ejecución hipotecaria,negative,no,life outcomes
+underemployment,subempleo,negative,no,life outcomes
+career advancement,avance en la carrera,positive,no,life outcomes
+natural,natural,positive,no,appearance
+unnatural,no natural,negative,no,appearance
+elegance,elegancia,positive,no,appearance
+coarseness,tosquedad,negative,no,appearance
+physical attractiveness,atractivo fisico,positive,no,appearance
+abominable,abominable,negative,no,appearance
+beauty,belleza,positive,no,appearance
+ugliness,fealdad,negative,no,appearance
+cute,tierno,positive,no,appearance
+repulsive,repulsivo,negative,no,appearance
+gorgeous,hermoso,positive,no,appearance
+horrible,horrible,negative,no,appearance
+attractive,atractivo,positive,no,appearance
+unattractive,no atractivo,negative,no,appearance
+well-groomed,bien arreglado,positive,no,appearance
+sloppy,desaliñado,negative,no,appearance
+stylish,con estilo,positive,no,appearance
+well-dressed,bien vestido,positive,no,appearance
+unkempt,desprolijo,negative,no,appearance
+graceful,agraciado,positive,no,appearance
+clumsy,torpe,negative,no,appearance
+radiant,radiante,positive,no,appearance
+ungainly,desgarbado,negative,no,appearance
+gaudy,hortera,negative,no,appearance
+plain,sin gracia,negative,no,appearance
+tidy,ordenado,positive,no,appearance
+disheveled,despeinado,negative,no,appearance
+polished,pulido,positive,no,appearance
+shabby,andrajoso,negative,no,appearance
+neat,pulcro,positive,no,appearance
+anxiety,ansiedad,neutral,no,mental health
+insanity,locura,neutral,no,mental health
+disorder,trastorno,neutral,no,mental health
+psychological problems,problemas psicológicos,neutral,yes,mental health
+psychiatric problems,problemas psiquiátricos,neutral,yes,mental health
+depression,depresión,neutral,yes,mental health
+trauma,trauma,neutral,yes,mental health
+bipolarity,bipolaridad,neutral,yes,mental health
+low self-esteem,bajo autoestima,neutral,no,mental health
+rumination,rumiación,neutral,no,mental health
+catastrophizing,catastrofización,neutral,no,mental health
+paranoia,paranoia,neutral,yes,mental health
+flashbacks,recuerdos intrusivos,neutral,yes,mental health
+intrusive thoughts,pensamientos intrusivos,neutral,yes,mental health
+social anxiety,ansiedad social,neutral,no,mental health
+panic attack,ataque de pánico,neutral,yes,mental health
+phobia,fobia,neutral,yes,mental health
+obsessive-compulsive disorder,trastorno obsesivo-compulsivo,neutral,yes,mental health
+attention-deficit/hyperactivity disorder,trastorno por déficit de atención e hiperactividad,neutral,yes,mental health
+post-traumatic stress disorder,trastorno de estrés postraumático,neutral,yes,mental health
+schizophrenia,esquizofrenia,neutral,yes,mental health
+psychosis,psicosis,neutral,yes,mental health
+delusions,delirios,neutral,yes,mental health
+hallucinations,alucinaciones,neutral,yes,mental health
+insomnia,insomnio,neutral,yes,mental health
+dissociation,disociación,neutral,yes,mental health
+eating disorder,trastorno alimentario,neutral,yes,mental health
+borderline personality disorder,trastorno límite de la personalidad,neutral,yes,mental health
+autism spectrum disorder,trastorno del espectro autista,neutral,yes,mental health
+burnout,agotamiento,neutral,no,mental health
+overdose,sobredosis,neutral,yes,drugs
+drug user,consumidor de drogas,neutral,no,drugs
+drug addiction,adicción a las drogas,neutral,yes,drugs
+withdrawal,abstinencia,neutral,yes,drugs
+relapse,recaída,neutral,yes,drugs
+drug,droga,neutral,yes,drugs
+insulin,insulina,neutral,yes,drugs
+overdose survivor,sobreviviente de sobredosis,neutral,no,drugs
+intoxicated,intoxicado,neutral,yes,drugs
+high (on drugs),colocado,neutral,no,drugs
+alcoholics anonymous,alcohólicos anónimos,neutral,no,drugs
+opioids,opioides,neutral,yes,drugs
+cocaine,cocaina,neutral,yes,drugs
+antidepressants,antidepresivos,neutral,yes,drugs
+antibiotics,antibióticos,neutral,yes,drugs
+analgesics,analgésicos,neutral,yes,drugs
+steroids,esteroides,neutral,yes,drugs
+marijuana,marihuana,neutral,yes,drugs
+weed,porro,neutral,yes,drugs
+heroin,heroína,neutral,yes,drugs
+methamphetamine,metanfetamina,neutral,yes,drugs
+MDMA,MDMA (éxtasis),neutral,yes,drugs
+LSD,LSD,neutral,yes,drugs
+ketamine,ketamina,neutral,yes,drugs
+nicotine,nicotina,neutral,yes,drugs
+alcohol,alcohol,neutral,yes,drugs
+tobacco,tabaco,neutral,yes,drugs
+drugged,drogado,neutral,yes,drugs
+morphine,morfina,neutral,yes,drugs
+
+drunk,borracho,neutral,yes,drugs
+identity disorder,trastorno de la identidad,negative,yes,medical stereotypes
+corrective therapy,terapia correctiva,negative,yes,medical stereotypes
+hormonal blocking,bloqueamiento hormonal,neutral,yes,medical stereotypes
+conflictive patients,pacientes conflictivos,negative,yes,medical stereotypes
+responsible patients,pacientes responsables,positive,yes,medical stereotypes
+bad influence on kids,mala infuencia en niños,negative,no,medical stereotypes
+good influence on kids,buena infuencia en niños,positive,no,medical stereotypes
+conversion therapy,terapia de conversión,negative,no,medical stereotypes
+blame the patient,culpa al paciente,negative,no,medical stereotypes
+ignore the patient,ignora al paciente,negative,no,medical stereotypes
+trust the patient,confia en el paciente,positive,no,medical stereotypes
+listen to the patient,escucha al paciente,positive,no,medical stereotypes
+refuse treatment,negar tratamiento,negative,no,medical stereotypes
+give treatment,dar tratamiento,positive,no,medical stereotypes
+parenthood,paternidad,positive,no,social roles and relationships
+father,padre,positive,no,social roles and relationships
+mother,madre,positive,no,social roles and relationships
+friendship,amistad,positive,no,social roles and relationships
+boyfriend,novio,positive,no,social roles and relationships
+girlfriend,novia,positive,no,social roles and relationships
+breakup,rotura,negative,no,social roles and relationships
+toxic relationship,relación toxica,negative,no,social roles and relationships
+family planning,planificación familiar,positive,yes,social roles and relationships
+fertility,fertilidad,positive,yes,social roles and relationships
+infertility,infertilidad,negative,yes,social roles and relationships
+marriage,matrimonio,positive,no,social roles and relationships
+wedding,boda,positive,no,social roles and relationships
+spouse,cónyuge,positive,no,social roles and relationships
+partner,pareja,positive,no,social roles and relationships
+adoption,adopción,positive,yes,social roles and relationships
+divorce,divorcio,negative,no,social roles and relationships
+partnership,pareja estable,positive,no,social roles and relationships
+infidelity,infidelidad,negative,no,social roles and relationships
+abandonment,abandono,negative,no,social roles and relationships
+betrayal,traición,negative,no,social roles and relationships
+domestic violence,violencia doméstica,negative,no,social roles and relationships
+hormones,hormonas,neutral,yes,medical treatments
+mastectomy,mastectomía,neutral,yes,medical treatments
+health insurance,cobertura sanitaria,neutral,yes,medical treatments
+surgery,cirugía,neutral,yes,medical treatments
+hormone therapy,terapia hormonal,neutral,yes,medical treatments
+testosterone therapy,terapia con testosterona,neutral,yes,medical treatments
+estrogen therapy,terapia con estrógenos,neutral,yes,medical treatments
+puberty blockers,bloqueadores de pubertad,neutral,yes,medical treatments
+antiretroviral therapy,terapia antirretroviral,neutral,yes,medical treatments
+antibiotic treatment,tratamiento con antibióticos,neutral,yes,medical treatments
+abortion,aborto,neutral,yes,medical treatments
+
+
+

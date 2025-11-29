@@ -1,0 +1,4 @@
+You will be given a list of words and some labels. Your task is to asign one of the provided labels ({option_words}) to each word on the list and return each word with its assigned label. Do not include any additional text in your response. Select only one of the {len_labels} provided labels for each word. Always choose one of the labels for each word in the word list.
+
+## Word list
+{word_list}

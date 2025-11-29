@@ -1,0 +1,95 @@
+english,spanish,sentiment,medical
+hormones,hormonas,neutral,yes
+conflictive patients,pacientes conflictivos,negative,yes
+fertility treatments,tratamientos de fertilidad,neutral,yes
+family planning,planificación familiar,neutral,yes
+bad influence on kids,mala infuencia en niños,negative,no
+regret,arrepentimiento,negative,no
+surgery,cirugía,neutral,medical
+suicide,suicidio,negative,no
+sadness,tristeza,negative,no
+happiness,felicidad,positive,no
+parenthood,paternidad,positive,no
+hiv,vih,neutral,yes
+success,éxito,positive,yes
+failure,fallo,negative,no
+victory,victoria,positive,yes
+winner,ganador,positive,yes
+heterosexuality,heterosexualidad,neutral,no
+menstruation,menstruación,neutral,yes
+hepatitis,hepatitis,neutral,yes
+polycystic ovary,ovario poliquístico,neutral,yes
+mastectomy,mastectomía,neutral,yes
+breastfeeding,lactancia,neutral,yes
+health insurance,cobertura sanitaria,neutral,yes
+good life,buena vida,positive,no
+good health,buena salud,positive,no
+mental stability,estabilidad psíquica,positive,no
+disorder,trastorno,negative,no
+risky practices,prácticas de riesgo,negative,no
+danger,peligro,negative,no
+homosexuality,homosexualidad,neutral,no
+physical attractiveness,atractivo fisico,positive,no
+deceit,engaño,negative,no
+disability,discapacidad,neutral,no
+natural,natural,positive,no
+elegance,elegancia,positive,no
+intelligence quotient,coeficiente intelectual,neutral,no
+transparency,transparencia,positive,no
+serenity,serenidad,positive,no
+conviction,convicción,positive,no
+mutilation,mutilación,negative,no
+anxiety,ansiedad,negative,no
+illegal,ilegal,negative,no
+cruel,cruel,negative,no
+insanity,locura,negative,no
+damage,daño,negative,no
+disgust,asco,negative,no
+evil,maldad,negative,no
+hate,odio,negative,no
+love,amor,positive,no
+ignorance,ignorancia,negative,no
+poor,pobre,negative,no
+rich,rico,positive,no
+rude,grosero,negative,no
+wicked,malvado,negative,no
+achievement,logro,positive,no
+admiration,admiración,positive,no
+approved,aprobado,positive,no
+disapproved,desaprobado,negative,no
+beauty,belleza,positive,no
+ugliness,fealdad,negative,no
+kindness,bondad,positive,no
+intelligence,inteligencia,positive,no
+courage,coraje,positive,no
+respect,respeto,positive,no
+friendship,amistad,positive,no
+gay,gay,neutral,no
+straight,heterosexual,neutral,no
+honor,honor,positive,no
+pride,orgullo,positive,no
+shame,vergüenza,negative,no
+trust,confianza,positive,no
+sincerity,sinceridad,positive,no
+illness,enfermedad,negative,yes
+identity disorder,trastorno de la identidad,negative,yes
+corrective therapy,terapia correctiva,negative,yes
+conversion therapy,terapia de conversión,negative,no
+psychological problems,problemas psicológicos,negative,yes
+psychiatric problems,problemas psiquiátricos,negative,yes
+hyperfemininity,hiperfeminidad,neutral,no
+hypermasculinity,hipermasculinidad,neutral,no
+hormonal blocking,bloqueamiento hormonal,neutral,yes
+pregnancy,embarazo,neutral,yes
+PrEP,PrEP,neutral,yes
+drug,droga,neutral,yes
+insulin,insulina,neutral,yes
+opioids,opioides,neutral,yes
+health,salud,positive,yes
+std,ets,neutral,yes
+depression,depresión,negative,yes
+trauma,trauma,negative,yes
+healthy,saludable,positive,no
+normal upbringing,crianza normal,positive,no
+strong,fuerte,positive,no
+stable,estable,positive,yes

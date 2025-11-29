@@ -1,0 +1,8 @@
+{
+    "models": ["gemini-2.0-flash"],
+    "languages": ["english"],
+    "temperatures": [0.0],
+    "n_uses_per_word": 2,
+    "words_per_prompt": 16,
+    "with_or_without_none": ["without_none"]
+}

@@ -1,0 +1,1 @@
+Given a list of {len} words, asign the label {option_words} to each word within the list of {len} words. Write the label after each word. Do not include any additional text in your response. Always choose one of the provided labels for each word in the word list. The words are: {word_list}.

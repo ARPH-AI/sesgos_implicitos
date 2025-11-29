@@ -1,0 +1,1 @@
+Here are some words. For each, assign one of the two labels ({option_words}) and write your choice after the word. Make sure to always tag each word with one of the labels provided. The words are {word_list}. Do not include any additional text in your response.
